@@ -119,13 +119,13 @@ Momentan verfügbare Plugins:
 
 ### Installation:
 
-- Download [Zip](https://github.com/Iptvharry/vavoo-parser-xstream/archive/refs/heads/main.zip):
+- Download [Zip](https://github.com/Iptvharry/vavoo-parser-xstream/archive/refs/heads/xstream.zip)
 ```bash
-wget https://github.com/Iptvharry/vavoo-parser-xstream/archive/refs/heads/main.zip
+wget https://github.com/Iptvharry/vavoo-parser-xstream/archive/refs/heads/xstream.zip
 ```
 - Unzip Zipfile:
 ```bash
-unzip main.zip
+unzip xstream.zip
 ```
 - Install requirements via pip:
 ```bash
